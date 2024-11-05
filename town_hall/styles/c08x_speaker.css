@@ -7,7 +7,7 @@ html {
 	background-color: white;
 }
 @media only screen and (max-width:850px){
-	font-size:90%;
+	body {font-size:90%;}
 }
 @media only screen and (max-wdth:650px){
 	aside {float:none;}
