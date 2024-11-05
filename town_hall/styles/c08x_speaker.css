@@ -10,6 +10,8 @@ html {
 	font-size:90%;
 }
 @media only screen and (max-wdth:650px){
+	aside {float:none;}
+	section {float:none;}
 }
         
 body {
