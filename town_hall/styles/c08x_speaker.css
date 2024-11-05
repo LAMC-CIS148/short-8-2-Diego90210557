@@ -6,10 +6,10 @@
 html {
 	background-color: white;
 }
-@media screen and (max-width:850px){
+@media only screen and (max-width:850px){
 	font-size:90%;
 }
-@media screen and (max-wdth:650px){
+@media only screen and (max-wdth:650px){
 }
         
 body {
